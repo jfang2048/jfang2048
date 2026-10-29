@@ -1,28 +1,34 @@
 # Junhua Fang
 
-Systems, infrastructure, and geoinformatics.
+**Systems Engineering · Infrastructure · Open Source**
 
-M.Sc. student in Geoinformatics Engineering at Politecnico di Milano, with one year of SRE experience. My current focus is Linux systems, observability, and infrastructure for AI workloads.
+I build tools to understand, automate, and improve computing systems.
 
-## Background
+Interested in Linux internals, systems programming, observability, and performance engineering. I value simple designs, explicit interfaces, and reproducible results.
 
-1. **Politecnico di Milano** · M.Sc. Geoinformatics Engineering · 2025–present
-2. **China University of Geosciences (Wuhan)** · B.Sc. Geographic Information Science · 2018–2022
+## Selected Work
 
-## Selected work
+**[AI SRE Agent](https://github.com/jfang2048/ai_sre_agent_pub)**
 
-### [AI SRE Agent](https://github.com/jfang2048/ai_sre_agent_pub)
+An observability and incident investigation platform for Linux, Kubernetes, and GPU infrastructure. Built with Go and C++, featuring host-level telemetry, kernel interfaces, and distributed collectors.
 
-Incident evidence and investigation tooling for Linux, Kubernetes, and GPU infrastructure. Node collectors feed a central controller; incident records preserve the evidence behind each diagnosis. Built with Go, C++, and Python.
+**[LLM Inference Benchmark](https://github.com/jfang2048/llm_benchmark)**
 
-### [WebGIS coursework](https://github.com/jfang2048/polimi-webgis-class-2026)
+A reproducible benchmarking framework for local LLM inference. Measures throughput, latency, resource utilization, and reliability under controlled workloads.
 
-Geospatial web development coursework at Politecnico di Milano.
+## Technical Focus
 
-## Technical interests
+| Area | Technologies |
+| :--- | :--- |
+| **Programming** |  C++, Python, Shell |
+| **Systems** | Linux, FreeBSD, KVM/QEMU, ZFS |
+| **Infrastructure** | Docker, Kubernetes, Ansible, CI/CD |
+| **Observability** | Prometheus, Grafana, eBPF, NVML |
 
-Linux internals · networking · distributed storage · observability · GPU infrastructure · geospatial systems
+## Philosophy
 
-## Approach
+> Do one thing well. Keep interfaces simple. Make systems observable.
 
-Small tools. Explicit interfaces. Reproducible results.
+---
+
+Milan, Italy · [LinkedIn](https://linkedin.com/in/jfang2048) · [Email](mailto:junhuafang9527@gmail.com)
