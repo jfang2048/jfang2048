@@ -27,8 +27,4 @@ A reproducible benchmarking framework for local LLM inference. Measures throughp
 
 ## Philosophy
 
-> Do one thing well. Keep interfaces simple. Make systems observable.
-
----
-
-Milan, Italy · [LinkedIn](https://linkedin.com/in/jfang2048) · [Email](mailto:junhuafang9527@gmail.com)
+> Just For Fun.
