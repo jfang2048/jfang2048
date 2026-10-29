@@ -33,6 +33,5 @@ Reproducible LLM inference benchmarking on constrained hardware. Exploring throu
 
 ## Philosophy
 
-> **Just For Fun.**
+> **Just For Fun :) **
 
-Small tools. Simple interfaces. Endless curiosity.
